@@ -1,4 +1,8 @@
-*  DKL(q||p)  KL散度度量从候选概率p获得信息匹配某个“ground truth” q.
+*  DKL(q||p)  KL散度度量从候选概率p获得信息匹配某个“ground truth” q. （找到一个p，让它模仿q）
+* KL散度不对称 — DKL(q||p)≠DKL(p||q)
+
+* [KL散度通俗理解](https://www.jianshu.com/p/43318a3dc715)
+
 
 * KL散度是度量两个分布之间差异的函数。在各种变分方法中，都有它的身影。
 ![](readme/KL散度_01.png)
