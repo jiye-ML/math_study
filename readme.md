@@ -9,3 +9,7 @@
 
 * [02.概率论](02.概率论.md)
 
+### 高数
+
+* [10分钟让你理解泊松分布、指数分布](https://mp.weixin.qq.com/s/dYttmuliuhkeUWB2RhsZaQ)
+
